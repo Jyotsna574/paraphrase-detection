@@ -1,0 +1,9 @@
+pandas
+nltk
+transformers
+scikit-learn
+seaborn
+googletrans==4.0.0-rc1
+tensorflow
+gensim
+keras
